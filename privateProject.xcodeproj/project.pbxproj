@@ -15,6 +15,7 @@
 		91C0FA441ED3FCA000BF6911 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91C0FA421ED3FCA000BF6911 /* LaunchScreen.storyboard */; };
 		91C0FA501ED3FD0F00BF6911 /* ZDMathTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 91C0FA4D1ED3FD0F00BF6911 /* ZDMathTool.m */; };
 		91C0FA511ED3FD0F00BF6911 /* ZDViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91C0FA4F1ED3FD0F00BF6911 /* ZDViewController.m */; };
+		91C0FA7A1ED4219E00BF6911 /* ZDView.m in Sources */ = {isa = PBXBuildFile; fileRef = 91C0FA791ED4219E00BF6911 /* ZDView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		91C0FA4D1ED3FD0F00BF6911 /* ZDMathTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZDMathTool.m; sourceTree = "<group>"; };
 		91C0FA4E1ED3FD0F00BF6911 /* ZDViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZDViewController.h; sourceTree = "<group>"; };
 		91C0FA4F1ED3FD0F00BF6911 /* ZDViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZDViewController.m; sourceTree = "<group>"; };
+		91C0FA781ED4219E00BF6911 /* ZDView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZDView.h; sourceTree = "<group>"; };
+		91C0FA791ED4219E00BF6911 /* ZDView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZDView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +96,8 @@
 				91C0FA4D1ED3FD0F00BF6911 /* ZDMathTool.m */,
 				91C0FA4E1ED3FD0F00BF6911 /* ZDViewController.h */,
 				91C0FA4F1ED3FD0F00BF6911 /* ZDViewController.m */,
+				91C0FA781ED4219E00BF6911 /* ZDView.h */,
+				91C0FA791ED4219E00BF6911 /* ZDView.m */,
 			);
 			path = privateProject;
 			sourceTree = "<group>";
@@ -170,6 +175,7 @@
 			files = (
 				91C0FA3C1ED3FCA000BF6911 /* ViewController.m in Sources */,
 				91C0FA501ED3FD0F00BF6911 /* ZDMathTool.m in Sources */,
+				91C0FA7A1ED4219E00BF6911 /* ZDView.m in Sources */,
 				91C0FA391ED3FCA000BF6911 /* AppDelegate.m in Sources */,
 				91C0FA361ED3FCA000BF6911 /* main.m in Sources */,
 				91C0FA511ED3FD0F00BF6911 /* ZDViewController.m in Sources */,
